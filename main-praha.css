@@ -1,0 +1,39 @@
+.heading {
+    margin: 0px 40px;
+    background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.1)), url("most2.jpg");
+    text-align: center;
+    border-radius: 15px;
+    background-repeat: no-repeat;
+    height: 150px;
+    background-size: 100%;
+    background-position: center;
+
+}
+
+.mainimg {
+    background-image:url("praha.png");
+    width:900px;
+    height: 750px;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: contain; /* Resize the background image to cover the entire container */
+    margin: 0px auto;
+}
+
+.h1class {
+    margin: 0;
+    padding:10px;
+    font-size: 50px;
+    color: #000000;
+}
+
+.footerclass {
+    margin: 0px 40px;
+    background-color:#845e5e;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.pdole {
+    margin-top: 0px;
+}
