@@ -5,8 +5,34 @@
 </head>
 <h1>Kavárna Kočičí</h1>
 <h2>Originální kočičí kavárna</h2>
-<img src="stranky/index.png"
-width= "600"
-height="900"
-/>
+
+<img
+ src="obrazek/praha"
+ width= "100"
+ height="100"
+ />
+
+<p>
+     Kavárna Kočičí Praha je malým rodinným podnikem a nachází se přímo v samotném srdci pražského Starého města. Pro zákazníky jsme poprvé otevřeli dveře v listopadu 2014. 
+    
+    Jsme originální kočičí kavárnou, která následuje trendy původních japonských zvířecích kaváren, které úspěšně baví návštěvníky z celého světa již desítky let. 
+    
+    V našich prostorách bydlí devět kočičích terapeutů, kteří se starají o všechny příchozí zákazníky. Cílem kočičí kavárny je poskytnout našim zákazníkům příjemné relaxační místo, kde si můžou vychutnat skvělou kávu a dorty (s kočkou).
+    </p>
+    <div>
+        <a href=" http://kavarnakocici.com/">Oficiální stránky</a>
+        <a href="https://www.google.com/maps/dir//Michalsk%C3%A1+3,+110+00+Star%C3%A9+M%C4%9Bsto/@50.0845666,14.4199463,16z/data=!4m8!4m7!1m0!1m5!1m1!1s0x470b94ee93a416c9:0x49e1c9b6f7ab3256!2m2!1d14.4199463!2d50.0845666">Trasa</a>
+    </div>
+
+<div>
+<nav class="container"
+ <a href="#menu">menu</a>
+ </nav>
+ 
+</div>
+
+<div> #menu 
+    <img
+    src="obrazek/"
+</div>
 
