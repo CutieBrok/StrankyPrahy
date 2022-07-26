@@ -1,0 +1,12 @@
+<html> <!--Začátek HTML-->
+
+<head>
+ <!--hlavička-->
+</head>
+<h1>Kavárna Kočičí</h1>
+<h2>Originální kočičí kavárna</h2>
+<img src="stranky/index.png"
+width= "600"
+height="900"
+/>
+
