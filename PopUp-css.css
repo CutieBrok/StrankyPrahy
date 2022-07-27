@@ -16,7 +16,7 @@
     height: 95vh;
     background-color: rgb(214, 123, 143);
     border-radius: 15px;
-    color: hsl(0, 0%, 100%);
+    color: hsl(0, 21%, 93%);
     padding: 10px;
 }
 
@@ -39,14 +39,14 @@ body {
 .zabicka {
     border-radius: 15px;
     border: solid 5px;
-    color: hsl(0, 0%, 100%);
+    color: hsl(0, 21%, 93%);
 }
 
 .h1class {
     margin: 0;
     padding: 10px;
     font-size: 50px;
-    color: hsl(0, 0%, 100%);
+    color: hsl(0, 21%, 93%);
 }
 
 .h3text {
@@ -56,7 +56,7 @@ body {
     border-radius: 15px;
     padding: 5px;
     margin: 10px;
-    color: hsl(0, 0%, 100%);
+    color: hsl(0, 21%, 93%);
 }
 
 .ptext {
@@ -66,7 +66,7 @@ body {
     border-radius: 15px;
     padding: 5px;
     margin: 10px 0px 10px 50px;
-    color: hsl(0, 0%, 100%);
+    color: hsl(0, 21%, 93%);
 }
 
 .text {
@@ -78,4 +78,17 @@ body {
     background-color: #845e5e;
     text-align: center;
     border-radius: 15px;
+}
+
+.button {
+    border: none;
+    background-color: transparent;
+    position: absolute;
+    cursor: pointer;
+    left: 60px;
+    top: 30px;
+}
+
+.pin:hover {
+    transform: scale(1.5);
 }
