@@ -1,34 +1,72 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
 
-#pond {
+.pond {
     display: flex;
     justify-content: end;
     display: flex;
     flex-direction: row;
 }
 
-#content {
+.content {
     flex-grow: 1
 }
 
-#right {
+.right {
     width: 23%;
-    height: 100vh;
-    background-color: rgb(107, 161, 243);
+    height: 95vh;
+    background-color: rgb(214, 123, 143);
+    border-radius: 15px;
+    color: hsl(0, 0%, 100%);
+    padding: 10px;
 }
 
 body {
-    background-color: rgb(230, 230, 129);
+    background-color: rgb(249, 222, 240);
     font-family: 'Ubuntu', sans-serif;
 }
 
 .heading {
-    margin: 0px 40px;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1)), url("most2.jpg");
+    margin: 15px 40px;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.4)), url("most2.jpg");
     text-align: center;
     border-radius: 15px;
     background-repeat: no-repeat;
     height: 150px;
     background-size: 100%;
     background-position: center;
+}
+
+.zabicka {
+    border-radius: 15px;
+}
+
+.h1class {
+    margin: 0;
+    padding: 10px;
+    font-size: 50px;
+    color: hsl(0, 0%, 100%);
+}
+
+.h3text {
+    width: 80%;
+    height: 35vh;
+    background-color: rgb(214, 123, 143);
+    border-radius: 15px;
+    padding: 5px;
+    margin: 10px;
+    color: hsl(0, 0%, 100%);
+}
+
+.ptext {
+    width: 20%;
+    height: 10vh;
+    background-color: rgb(214, 123, 143);
+    border-radius: 15px;
+    padding: 5px;
+    margin: 10px 0px 10px 50px;
+    color: hsl(0, 0%, 100%);
+}
+
+.text {
+    display: flex;
 }

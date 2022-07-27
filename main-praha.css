@@ -7,7 +7,7 @@
 
 .heading {
     margin: 0px 40px;
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("most2.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.4)), url("most2.jpg");
     text-align: center;
     border-radius: 15px;
     background-repeat: no-repeat;
@@ -35,7 +35,7 @@
     margin: 0;
     padding: 10px;
     font-size: 50px;
-    color: #ffffff;
+    color: hsl(0, 0%, 100%);
 }
 
 .footerclass {
@@ -47,6 +47,7 @@
 
 .pdole {
     margin-top: 0px;
+    color: #ffffff;
 }
 
 .pin:hover {
@@ -57,6 +58,7 @@
     border: none;
     background-color: transparent;
     position: absolute;
+    cursor: pointer;
 }
 
 .b1 {
@@ -72,4 +74,14 @@
 .b3 {
     left: 350px;
     top: 265px;
+}
+
+.b4 {
+    left: 470px;
+    top: 440px;
+}
+
+.b5 {
+    left: 410px;
+    top: 210px;
 }
