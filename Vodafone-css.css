@@ -1,6 +1,6 @@
 .heading {
-    margin: 0px 40px;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1)), url("most2.jpg");
+    margin: 15px 40px;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.4)), url("most2.jpg");
     text-align: center;
     border-radius: 15px;
     background-repeat: no-repeat;
@@ -8,20 +8,70 @@
     background-size: 100%;
     background-position: center;
 }
+
+.h1class {
+    margin: 0;
+    padding: 10px;
+    font-size: 50px;
+    color: hsl(0, 0%, 100%);
+}
+
 body {
     background-color: rgb(233, 58, 58);
     font-family: 'Ubuntu', sans-serif;
     color: black;
 }
+
 #right {
     width: 33%;
     height: 100vh;
-    background-color: rgb(227, 234, 236);
+    background-color: rgb(255, 132, 132);
+    border-radius: 15px;
+    padding: 10px;
+    color: hsl(0, 0%, 100%);
 }
+
 .popis {
-    color:white;
+    color: white;
 }
+
 .informace {
     display: flex;
     height: 100vh;
+}
+
+.p1 {
+    width: 80%;
+    height: 12vh;
+    background-color: rgb(255, 132, 132);
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px;
+    color: hsl(0, 0%, 100%);
+}
+
+.p2 {
+    width: 80%;
+    height: 16vh;
+    background-color: rgb(255, 132, 132);
+    border-radius: 15px;
+    padding: 10px;
+    margin: 5px;
+    color: hsl(0, 0%, 100%);
+}
+
+.p3 {
+    width: 25%;
+    height: 45vh;
+    background-color: rgb(255, 132, 132);
+    border-radius: 15px;
+    padding: 10px;
+    margin: 5px;
+    color: hsl(0, 0%, 100%);
+}
+
+.img1 {
+    border-radius: 15px;
+    border: solid 3px;
+    color: hsl(0, 0%, 100%);
 }
