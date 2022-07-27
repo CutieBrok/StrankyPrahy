@@ -9,16 +9,12 @@
     background-position: center;
 }
 
-<<<<<<< Updated upstream
 .h1class {
     margin: 0;
     padding: 10px;
     font-size: 50px;
     color: hsl(0, 0%, 100%);
 }
-
-=======
->>>>>>> Stashed changes
 body {
     background-color: rgb(233, 58, 58);
     font-family: 'Ubuntu', sans-serif;
