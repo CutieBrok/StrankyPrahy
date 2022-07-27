@@ -38,7 +38,8 @@ body {
 
 .zabicka {
     border-radius: 15px;
-    border: solid 5px
+    border: solid 5px;
+    color: hsl(0, 0%, 100%);
 }
 
 .h1class {
