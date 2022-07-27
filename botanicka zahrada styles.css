@@ -7,6 +7,8 @@ body {
 
 }
 
+
+
 .heading {
     margin: 0px 40px;
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1)), url("most2.jpg");
@@ -19,9 +21,4 @@ body {
 }
 
 
-#bok {
-    background-color: rgb(14, 183, 90);
-    width: 23%;
-    height: 150vh;
 
-}
