@@ -27,3 +27,20 @@ body {
     border-radius: 15px;
 
 }
+
+.obrazky {
+    border-radius: 15px;
+    border: solid 5px;
+    color: white;
+}
+
+.text {
+    width: 1000px;
+    height: px;
+    background-color: lightgreen;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 10px;
+    color: black;
+
+}
