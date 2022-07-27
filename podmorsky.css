@@ -35,8 +35,6 @@ body {
     height: 150px;
     background-size: 100%;
     background-position: center;
-
-<<<<<<< HEAD
 }
 
 .zralok {
@@ -74,15 +72,16 @@ body {
     color: hsl(0, 0%, 100%);
 }
 
-<<<<<<< HEAD
-
-=======
->>>>>>> b40cbdc3bb20f74c6b8e9bdbcdecb3f0a49cacc1
 .footerclass {
     margin: 0px 40px;
     background-color: #845e5e;
     text-align: center;
     border-radius: 15px;
-=======
->>>>>>> parent of 93c3cee (Merge branch 'main' of https://github.com/CutieBrok/strankyprahy)
+}
+
+.h1class {
+    margin: 0;
+    padding: 10px;
+    font-size: 50px;
+    color: hsl(0, 0%, 100%);
 }

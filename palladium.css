@@ -37,3 +37,37 @@ body {
     background-position: center;
 
 }
+
+.palladiumdum {
+    border-radius: 15px;
+    border: solid 5px;
+    color: hsl(0, 0%, 100%);
+}
+
+.palladiumvevnitr {
+    border-radius: 15px;
+    border: solid 5px;
+    color: hsl(0, 0%, 100%);
+}
+
+.palvevnitr {
+    border-radius: 15px;
+    border: solid 5px;
+    color: hsl(0, 0%, 100%);
+}
+
+.paladiumvenek {
+    border-radius: 15px;
+    border: solid 5px;
+    color: hsl(0, 0%, 100%);
+}
+
+.p1 {
+    width: 85%;
+    height: 49vh;
+    background-color: red;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 5px;
+    color: hsl(0, 0%, 100%);
+}
