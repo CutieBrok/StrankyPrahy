@@ -9,6 +9,7 @@
     background-position: center;
 }
 
+<<<<<<< Updated upstream
 .h1class {
     margin: 0;
     padding: 10px;
@@ -16,6 +17,8 @@
     color: hsl(0, 0%, 100%);
 }
 
+=======
+>>>>>>> Stashed changes
 body {
     background-color: rgb(233, 58, 58);
     font-family: 'Ubuntu', sans-serif;
@@ -74,4 +77,10 @@ body {
     border-radius: 15px;
     border: solid 3px;
     color: hsl(0, 0%, 100%);
+}
+.footerclass {
+    margin: 0px 40px;
+    background-color: #845e5e;
+    text-align: center;
+    border-radius: 15px;
 }

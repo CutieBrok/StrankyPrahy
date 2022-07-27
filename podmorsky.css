@@ -6,15 +6,13 @@ body {
     font-family: 'Ubuntu', sans-serif;
 }
 
-#left {
-    display: flex;
-    flex-direction: row;
-}
 
 #right {
     width: 100%;
     height: 100vh;
-    background-color: lightskyblue
+    background-color: lightskyblue;
+    border-radius: 15px;
+    padding: 5px
 }
 
 .wrapper {
@@ -27,7 +25,7 @@ body {
 }
 
 .heading {
-    margin: 0px 40px;
+    margin: 15px 40px;
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1)), url("most2.jpg");
     text-align: center;
     border-radius: 15px;
@@ -36,4 +34,46 @@ body {
     background-size: 100%;
     background-position: center;
 
+}
+
+.zralok {
+    border-radius: 15px;
+    border: solid 5px;
+    color: hsl(0, 0%, 100%);
+}
+
+.ryby {
+    border-radius: 15px;
+    border: solid 5px;
+    color: hsl(0, 0%, 100%);
+}
+
+.morsky {
+    border-radius: 15px;
+    border: solid 5px;
+    color: hsl(0, 0%, 100%);
+}
+
+.dite {
+    border-radius: 15px;
+    border-radius: 15px;
+    border: solid 5px;
+    color: hsl(0, 0%, 100%);
+}
+
+.text {
+    width: 85%;
+    height: 50vh;
+    background-color: rgb(69, 123, 184);
+    border-radius: 15px;
+    padding: 15px;
+    margin: 10px;
+    color: hsl(0, 0%, 100%);
+}
+
+.footerclass {
+    margin: 0px 40px;
+    background-color: #845e5e;
+    text-align: center;
+    border-radius: 15px;
 }
