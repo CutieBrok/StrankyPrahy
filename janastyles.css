@@ -3,34 +3,69 @@
 body {
     background-color: burlywood;
     font-family: 'Ubuntu', sans-serif;
-
 }
 
 
-#footer {
+.side {
     background-color: pink;
-    width: 23%;
-    height: 100vh;
-
-
+    width: 15%;
+    height: 80vh;
+    justify-self: flex-end;
+    background-color: rgb(147, 116, 72);
+    border-radius: 15px;
+    color: hsl(0, 0%, 100%);
+    padding: 10px;
 }
-
 
 
 .heading {
-    margin: 0px 40px;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1)), url("most2.jpg");
+    margin: 15px 40px;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.4)), url("most2.jpg");
     text-align: center;
     border-radius: 15px;
     background-repeat: no-repeat;
     height: 150px;
     background-size: 100%;
     background-position: center;
+}
 
+.h1class {
+    margin: 0;
+    padding: 10px;
+    font-size: 50px;
+    color: hsl(0, 0%, 100%);
 }
 
 #pond {
     display: flex;
     justify-content: space-between;
-    
+}
+
+.footerclass {
+    margin: 0px 40px;
+    background-color: #845e5e;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.h2text {
+    width: 75%;
+    height: 29vh;
+    background-color: rgb(147, 116, 72);
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px;
+    color: hsl(0, 0%, 100%);
+}
+
+.obrazky {
+    display: flex;
+    margin: 30px;
+    /* width: 100vw; */
+    justify-content: space-between;
+}
+
+.imgb {
+    border: solid 5px;
+
 }
