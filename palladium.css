@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
 
 body {
-    background-color: black;
-    color: lightskyblue;
+    background-color: gold;
+    color: black;
     font-family: 'Ubuntu', sans-serif;
 }
 
@@ -14,7 +14,7 @@ body {
 #right {
     width: 100%;
     height: 100vh;
-    background-color: lightskyblue
+    background-color: red
 }
 
 .wrapper {
