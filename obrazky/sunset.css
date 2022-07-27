@@ -1,18 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
 
 body {
-    background-color: rgb(205, 205, 205);
-    color: rgb(250, 250, 250);
+    background-color: rgb(197, 5, 255);
+    color: black;
     font-family: 'Ubuntu', sans-serif;
 }
 
-
 #right {
-    width: 100%;
+    width: 90%;
     height: 100vh;
-    background-color: rgb(148, 148, 148);
+    background-color: rgb(255, 255, 116);
     border-radius: 15px;
-    padding: 5px
+    padding: 10px;
 }
 
 .wrapper {
@@ -20,55 +19,51 @@ body {
     justify-content: space-between;
 }
 
-.foother {
+.fo {
     color: black
 }
 
 .heading {
     margin: 15px 40px;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1)), url("most2.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.4)), url("most2.jpg");
     text-align: center;
     border-radius: 15px;
     background-repeat: no-repeat;
     height: 150px;
     background-size: 100%;
     background-position: center;
-
 }
 
-.zizkov-mimina {
-    border-radius: 15px;
-    border: solid 5px;
+.h1class {
+    margin: 0;
+    padding: 10px;
+    font-size: 50px;
     color: hsl(0, 0%, 100%);
 }
 
-.zizkov_vez {
-    border-radius: 15px;
-    border: solid 5px;
-    color: hsl(0, 0%, 100%);
+.sideobrazek {
+    margin: 15px;
 }
-
-.zizkov {
-    border-radius: 15px;
-    border: solid 5px;
-    color: hsl(0, 0%, 100%);
-}
-
-
 
 .text {
-    width: 85%;
-    height: 38vh;
-    background-color: rgb(148, 148, 148);
+    width: 90%;
+    height: 40vh;
+    background-color: lightskyblue;
     border-radius: 15px;
-    padding: 15px;
+    padding: 5px;
     margin: 10px;
+    color: hsl(0, 0%, 0%);
+}
+
+.img {
+    border-radius: 15px;
+    border: solid 2px;
     color: hsl(0, 0%, 100%);
 }
 
 .footerclass {
     margin: 0px 40px;
-    background-color: #815075;
+    background-color: #845e5e;
     text-align: center;
     border-radius: 15px;
 }
