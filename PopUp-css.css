@@ -75,9 +75,10 @@ body {
 
 .footerclass {
     margin: 0px 40px;
-    background-color: #845e5e;
+    background-color: rgb(214, 123, 143);
     text-align: center;
     border-radius: 15px;
+    color: white;
 }
 
 .button {

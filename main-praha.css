@@ -17,6 +17,10 @@
 
 }
 
+.ph {
+    color:hsl(0, 0%, 100%)
+}
+
 .mainimg {
     background-image: url("praha.png");
     width: 900px;
