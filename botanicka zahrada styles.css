@@ -1,25 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
 
-body {
-    background-color: burlywood;
+
+ body {
+    background-color: rgb(151, 235, 25);
     font-family: 'Ubuntu', sans-serif;
 
-}
-
-
-#footer {
-    background-color: pink;
-    width: 23%;
-    height: 100vh;
-
-
-}
-
-
-
-#nadpis {
-    display: flex;
-    justify-content: center;
 }
 
 .heading {
@@ -31,11 +16,4 @@ body {
     height: 150px;
     background-size: 100%;
     background-position: center;
-
-}
-
-#pond {
-    display: flex;
-    justify-content: space-between;
-    
-}
+  }
