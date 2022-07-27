@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
 
 
- body {
+body {
     background-color: rgb(151, 235, 25);
     font-family: 'Ubuntu', sans-serif;
 
@@ -16,4 +16,14 @@
     height: 150px;
     background-size: 100%;
     background-position: center;
-  }
+}
+
+
+#bok {
+    background-color: rgb(14, 183, 90);
+    width: 23%;
+    height: 150vh;
+    justify-content: flex-start;
+
+
+}
