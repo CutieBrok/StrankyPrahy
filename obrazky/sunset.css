@@ -1,15 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
 
 body {
-    background-color: black;
-    color: lightskyblue;
+    background-color: rgb(197, 5, 255);
+    color: black;
     font-family: 'Ubuntu', sans-serif;
 }
 
 #right {
     width: 90%;
     height: 100vh;
-    background-color: lightskyblue;
+    background-color: rgb(255, 255, 116);
     border-radius: 15px;
     padding: 10px;
 }
@@ -66,17 +66,4 @@ body {
     background-color: #845e5e;
     text-align: center;
     border-radius: 15px;
-}
-
-.button {
-    border: none;
-    background-color: transparent;
-    position: absolute;
-    cursor: pointer;
-    left: 60px;
-    top: 30px;
-}
-
-.pin:hover {
-    transform: scale(1.5);
 }
