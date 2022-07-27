@@ -7,7 +7,7 @@
 
 .heading {
     margin: 0px 40px;
-    background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.1)), url("most2.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1)), url("most2.jpg");
     text-align: center;
     border-radius: 15px;
     background-repeat: no-repeat;
@@ -18,26 +18,29 @@
 }
 
 .mainimg {
-    background-image:url("praha.png");
-    width:900px;
+    background-image: url("praha.png");
+    width: 900px;
     height: 750px;
-    background-position: center; /* Center the image */
-    background-repeat: no-repeat; /* Do not repeat the image */
-    background-size: contain; /* Resize the background image to cover the entire container */
+    background-position: center;
+    /* Center the image */
+    background-repeat: no-repeat;
+    /* Do not repeat the image */
+    background-size: contain;
+    /* Resize the background image to cover the entire container */
     margin: 0px auto;
     position: relative;
 }
 
 .h1class {
     margin: 0;
-    padding:10px;
+    padding: 10px;
     font-size: 50px;
     color: #000000;
 }
 
 .footerclass {
     margin: 0px 40px;
-    background-color:#845e5e;
+    background-color: #845e5e;
     text-align: center;
     border-radius: 15px;
 }
@@ -62,11 +65,11 @@
 }
 
 .b2 {
-    left: 335px ;
+    left: 335px;
     top: 355px;
 }
 
 .b3 {
-    left: 350px ;
+    left: 350px;
     top: 265px;
 }
