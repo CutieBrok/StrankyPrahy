@@ -77,3 +77,10 @@ body {
     text-align: center;
     border-radius: 15px;
 }
+
+.h1class {
+    margin: 0;
+    padding: 10px;
+    font-size: 50px;
+    color: hsl(0, 0%, 100%);
+}
