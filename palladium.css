@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
 
 body {
-    background-color: gold;
+    background-color: rgb(238, 221, 123);
     color: black;
     font-family: 'Ubuntu', sans-serif;
 }
@@ -12,9 +12,11 @@ body {
 }
 
 #right {
-    width: 100%;
+    width: 95%;
     height: 100vh;
-    background-color: red
+    background-color: rgb(238, 78, 78);
+    padding: 10px;
+    border-radius: 15px;
 }
 
 .wrapper {
@@ -22,12 +24,12 @@ body {
     justify-content: space-between;
 }
 
-.foother {
-    color: black
+.side {
+    color: rgb(255, 255, 255)
 }
 
 .heading {
-    margin: 0px 40px;
+    margin: 15px 40px;
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1)), url("most2.jpg");
     text-align: center;
     border-radius: 15px;
@@ -36,6 +38,13 @@ body {
     background-size: 100%;
     background-position: center;
 
+}
+
+.h1class {
+    margin: 0;
+    padding: 10px;
+    font-size: 50px;
+    color: hsl(0, 0%, 100%);
 }
 
 .palladiumdum {
@@ -64,10 +73,17 @@ body {
 
 .p1 {
     width: 85%;
-    height: 49vh;
-    background-color: red;
+    /* height: 49vh; */
+    background-color: rgb(238, 78, 78);
     border-radius: 15px;
     padding: 10px;
-    margin: 5px;
+    margin: 15px;
     color: hsl(0, 0%, 100%);
+}
+
+.footerclass {
+    margin: 0px 40px;
+    background-color: rgb(238, 78, 78);
+    text-align: center;
+    border-radius: 15px;
 }
