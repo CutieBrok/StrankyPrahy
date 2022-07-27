@@ -7,16 +7,7 @@ body {
 
 }
 
-.side {
-    background-color: pink;
-    width: 15%;
-    height: 80vh;
-    justify-self: flex-end;
-    background-color: rgb(147, 116, 72);
-    border-radius: 15px;
-    color: hsl(0, 0%, 100%);
-    padding: 10px;
-}
+
 
 .heading {
     margin: 0px 40px;
@@ -29,26 +20,5 @@ body {
     background-position: center;
 }
 
-.h2text {
-    width: 75%;
-    height: 29vh;
-    background-color: rgb(14, 183, 90);
-    border-radius: 15px;
-    padding: 10px;
-    margin: 10px;
-    color: hsl(0, 0%, 100%);
-
-}
-
-#pond2 {
-    display: flex;
-    justify-content: space-between;
-}
 
 
-#bok {
-    background-color: rgb(14, 183, 90);
-    width: 23%;
-    height: 150vh;
-
-}
