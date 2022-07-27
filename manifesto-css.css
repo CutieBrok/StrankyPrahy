@@ -45,7 +45,6 @@ body {
     margin: 15px;
 }
 
-<<<<<<< Updated upstream
 .text {
     width: 90%;
     height: 40vh;
@@ -60,13 +59,4 @@ body {
     border-radius: 15px;
     border: solid 2px;
     color: hsl(0, 0%, 100%);
-=======
->>>>>>> Stashed changes
-}
-
-.footerclass {
-    margin: 0px 40px;
-    background-color: #845e5e;
-    text-align: center;
-    border-radius: 15px;
 }
