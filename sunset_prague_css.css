@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
 
 body {
-    background-color: rgb(81, 0, 255);
-    color: rgb(255, 255, 255);
+    background-color: rgb(234, 160, 255);
+    color: rgb(250, 250, 250);
     font-family: 'Ubuntu', sans-serif;
 }
 
@@ -10,7 +10,7 @@ body {
 #right {
     width: 100%;
     height: 100vh;
-    background-color: lightskyblue;
+    background-color: rgb(255, 74, 219);
     border-radius: 15px;
     padding: 5px
 }
@@ -54,17 +54,12 @@ body {
     color: hsl(0, 0%, 100%);
 }
 
-.znak_sunset {
-    border-radius: 15px;
-    border-radius: 15px;
-    border: solid 5px;
-    color: hsl(0, 0%, 100%);
-}
+
 
 .text {
     width: 85%;
     height: 50vh;
-    background-color: rgb(69, 123, 184);
+    background-color: rgb(255, 74, 219);
     border-radius: 15px;
     padding: 15px;
     margin: 10px;
@@ -73,7 +68,7 @@ body {
 
 .footerclass {
     margin: 0px 40px;
-    background-color: #845e5e;
+    background-color: #815075;
     text-align: center;
     border-radius: 15px;
 }
