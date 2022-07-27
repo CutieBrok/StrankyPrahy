@@ -36,6 +36,14 @@ body {
 
 }
 
+.h1class {
+    margin: 0;
+    padding: 10px;
+    font-size: 50px;
+    color: hsl(0, 0%, 100%);
+}
+
+
 .sunset-cinema-prague {
     border-radius: 15px;
     border: solid 5px;
