@@ -1,6 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
 
 
+
+.h1 {
+    margin: 0;
+    padding: 10px;
+    font-size: 50px;
+    color: hsl(0, 0%, 100%);
+}
+
 body {
     background-color: rgb(185, 233, 112);
     font-family: 'Ubuntu', sans-serif;
@@ -48,6 +56,8 @@ body {
 .pond {
     display: flex;
     justify-content: space-between;
+    padding: 15px;
+    margin: 10px;
 
 
 }
