@@ -79,3 +79,9 @@ body {
     font-size: 50px;
     color: hsl(0, 0%, 100%);
 }
+
+td {
+    border-color: black;
+    border: solid;
+
+}
