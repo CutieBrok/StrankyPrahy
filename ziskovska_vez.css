@@ -9,7 +9,7 @@ body {
 
 #right {
     width: 100%;
-    height: 100vh;
+    height: 105vh;
     background-color: rgb(148, 148, 148);
     border-radius: 15px;
     padding: 5px
@@ -71,4 +71,11 @@ body {
     background-color: rgb(148, 148, 148);
     text-align: center;
     border-radius: 15px;
+}
+
+.h1class {
+    margin: 0;
+    padding: 10px;
+    font-size: 50px;
+    color: hsl(0, 0%, 100%);
 }
