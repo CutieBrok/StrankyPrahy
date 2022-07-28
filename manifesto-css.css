@@ -63,9 +63,13 @@ body {
 
 .footerclass {
     margin: 0px 40px;
-    background-color: #3e3abc;
+    background-color: lightskyblue;
     text-align: center;
     border-radius: 15px;
+}
+
+.pdole {
+    color: black;
 }
 
 .button {
