@@ -8,8 +8,8 @@ body {
 
 
 #right {
-    width: 97%;
-    height: 70vh;
+    width: 95%;
+    height: 80vh;
     background-color: rgb(255, 74, 219);
     border-radius: 15px;
     padding: 5px
@@ -17,8 +17,9 @@ body {
 
 .wrapper {
     display: flex;
-    justify-content: space-between;
+    /* justify-content: space-between; */
 }
+
 
 .foother {
     color: black
