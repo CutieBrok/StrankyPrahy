@@ -50,12 +50,13 @@ body {
 
 .h2text {
     width: 75%;
-    height: 29vh;
+    height: 31vh;
     background-color: rgb(147, 116, 72);
     border-radius: 15px;
     padding: 10px;
     margin: 10px;
     color: hsl(0, 0%, 100%);
+    font-size: 18px;
 }
 
 .obrazky {
