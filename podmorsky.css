@@ -2,7 +2,6 @@
 
 body {
     background-color: rgb(81, 0, 255);
-    color: rgb(255, 255, 255);
     font-family: 'Ubuntu', sans-serif;
 }
 
@@ -69,16 +68,16 @@ body {
 .text {
     width: 85%;
     height: 50vh;
-    background-color: rgb(69, 123, 184);
+    background-color: lightskyblue;
     border-radius: 15px;
     padding: 15px;
     margin: 10px;
-    color: hsl(0, 0%, 100%);
+
 }
 
 .footerclass {
     margin: 0px 40px;
-    background-color: rgb(69, 123, 184);
+    background-color: lightskyblue;
     text-align: center;
     border-radius: 15px;
 }
@@ -94,4 +93,8 @@ body {
 
 .pin:hover {
     transform: scale(1.5);
+}
+
+.pdole {
+    color: rgb(0, 0, 0)
 }
