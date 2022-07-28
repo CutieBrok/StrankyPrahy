@@ -18,7 +18,7 @@
 }
 
 .ph {
-    color:hsl(0, 0%, 100%)
+    color: hsl(0, 0%, 100%)
 }
 
 .mainimg {
@@ -103,4 +103,9 @@
 .b8 {
     left: 365px;
     top: 335px;
+}
+
+.b9 {
+    left: 440px;
+    top: 265px;
 }
