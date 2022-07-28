@@ -85,3 +85,16 @@ td {
     border: solid;
 
 }
+
+.button {
+    border: none;
+    background-color: transparent;
+    position: absolute;
+    cursor: pointer;
+    left: 60px;
+    top: 30px;
+}
+
+.pin:hover {
+    transform: scale(1.5);
+}
