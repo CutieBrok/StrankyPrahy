@@ -94,3 +94,7 @@ body {
 .pin:hover {
     transform: scale(1.5);
 }
+
+.mapa {
+    border-radius: 15px;
+}

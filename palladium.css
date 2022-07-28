@@ -11,6 +11,10 @@ body {
     flex-direction: row;
 }
 
+.mapa {
+    border-radius: 15px;
+}
+
 #right {
     width: 95%;
     height: 95vh;

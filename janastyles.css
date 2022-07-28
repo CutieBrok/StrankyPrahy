@@ -17,6 +17,10 @@ body {
     padding: 10px;
 }
 
+.mapa {
+    border-radius: 15px;
+}
+
 
 .heading {
     margin: 15px 40px;

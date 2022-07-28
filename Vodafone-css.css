@@ -40,6 +40,10 @@ body {
 
 }
 
+.mapa {
+    border-radius: 15px;
+}
+
 .p1 {
     width: 80%;
     height: 12vh;
